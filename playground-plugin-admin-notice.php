@@ -17,7 +17,7 @@
     ?>
     <div class="notice notice-info">
         <p><?php _e($custom_message, 'playground-plugin-admin-notice'); ?></p>
-        <p> Hello World! </p>
+        <p> Hello WordCamp! </p>
     </div>
     <?php
 });
